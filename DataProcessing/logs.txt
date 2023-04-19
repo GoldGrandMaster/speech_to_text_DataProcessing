@@ -1,0 +1,10 @@
+Resulted tokens: <|0.00|>
+Resulted tokens: ĠHello
+Resulted tokens: ,
+Resulted tokens: Ġhow
+Resulted tokens: Ġare
+Resulted tokens: Ġyou
+Resulted tokens: ?
+Resulted tokens: <|2.24|>
+Resulted generation is ĠHello
+Failed, sheesh gotta try again!

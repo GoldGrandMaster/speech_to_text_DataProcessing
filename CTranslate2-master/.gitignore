@@ -1,0 +1,8 @@
+*.pyc
+/.vs
+/build
+CMake*.json
+.idea
+python/build/
+python/ctranslate2.egg-info/
+python/dist/

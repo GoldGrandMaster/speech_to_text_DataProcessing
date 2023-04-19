@@ -1,0 +1,7 @@
+﻿  DataProcessing.cpp
+C:\Users\q\Documents\CTask\DataProcessingTask-01\CTranslate2\include\ctranslate2\storage_view.h(42,23): warning C4244: 'argument': conversion from 'ctranslate2::dim_t' to 'const unsigned int', possible loss of data
+C:\Users\q\Documents\CTask\DataProcessingTask-01\CTranslate2\include\ctranslate2\storage_view.h(128,21): warning C4244: 'argument': conversion from 'ctranslate2::dim_t' to 'const unsigned int', possible loss of data
+C:\Users\q\Documents\CTask\DataProcessingTask-01\CTranslate2\include\ctranslate2\models\model.h(174,45): warning C4244: 'argument': conversion from 'ctranslate2::dim_t' to 'const unsigned int', possible loss of data
+  The contents of <filesystem> are only available with C++17 or later.
+C:\Users\q\source\repos\DataProcessing\DataProcessing\DataProcessing.cpp(103,32): warning C4566: character represented by universal-character-name '\u0120' cannot be represented in the current code page (1252)
+ctranslate2.lib(ctranslate2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
